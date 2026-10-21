@@ -1,0 +1,29 @@
+{
+  "comparison_horizon_utc": "2026-10-21 00:38:00",
+  "latency_tolerance_sec": 1e-06,
+  "queries": [
+    {
+      "query": "tumbling_60s",
+      "reference_rows": 7,
+      "recovery_rows": 7,
+      "reference_duplicate_keys": 0,
+      "recovery_duplicate_keys": 0,
+      "reference_only_keys": 0,
+      "recovery_only_keys": 0,
+      "aggregate_mismatch_rows": 0,
+      "passed": true
+    },
+    {
+      "query": "sliding_5m_1m",
+      "reference_rows": 7,
+      "recovery_rows": 7,
+      "reference_duplicate_keys": 0,
+      "recovery_duplicate_keys": 0,
+      "reference_only_keys": 0,
+      "recovery_only_keys": 0,
+      "aggregate_mismatch_rows": 0,
+      "passed": true
+    }
+  ],
+  "all_passed": true
+}

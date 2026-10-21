@@ -1,0 +1,48 @@
+# Spark outputs, checkpoints, and experiment logs.
+# Copy required metrics and summaries into evidence/ first.
+/output/
+
+# Temporary replay-publication directories
+/data/replay_pending*/
+
+# Generated replay inputs and staged payloads.
+# Preserve the exact submitted replay fixture in fixtures/.
+/data/replay_input*/
+/data/staging*/
+
+# Locally generated source manifests.
+# Copy the submitted manifest/provenance into evidence/.
+/data/manifests*/
+
+# Downloaded and derived audio
+/data/raw/
+/data/prepared*/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+
+# Spark/Java local runtime files
+spark-warehouse/
+metastore_db/
+derby.log
+hs_err_pid*.log
+replay_pid*.log
+
+# Local editor/OS files
+.DS_Store
+*~
+
+# Downloaded source dataset
+/data/raw/
+vocadito/
+
+# Derived audio
+/data/prepared/
+/data/prepared_notes_v1/
+
+# Local runtime output
+/output/

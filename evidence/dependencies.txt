@@ -1,0 +1,21 @@
+Name: pyspark
+Version: 3.5.1
+Summary: Apache Spark Python API
+Home-page: https://github.com/apache/spark/tree/master/python
+Author: Spark Developers
+Author-email: dev@spark.apache.org
+License: http://www.apache.org/licenses/LICENSE-2.0
+Location: /usr/local/lib/python3.10/site-packages
+Requires: py4j
+Required-by: 
+---
+Name: deal
+Version: 4.24.6
+Summary: **Deal** is a Python library for [design by contract][wiki] (DbC) programming.
+Home-page: 
+Author: 
+Author-email: Gram <gram@orsinium.dev>
+License: 
+Location: /home/vscode/.local/lib/python3.10/site-packages
+Requires: 
+Required-by: 

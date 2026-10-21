@@ -1,0 +1,9 @@
+{
+  "record_count": 240,
+  "fixture_kind": "synthetic_repeated_audio",
+  "ingest_boundary": "publisher admission before JSON publication",
+  "p50_sec": 1.490623,
+  "p95_sec": 9.9874045,
+  "p99_sec": 9.99799073,
+  "max_sec": 9.999325
+}

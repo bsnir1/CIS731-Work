@@ -28,6 +28,7 @@ RUN pip install --upgrade pip "setuptools<70.0.0" wheel && \
     torch==2.2.1 \
     transformers==4.38.2 \
     mlflow==2.11.1 \
+    deal \
     faiss-cpu==1.8.0 &&\
     pip install --no-build-isolation openai-whisper==20231117
 
