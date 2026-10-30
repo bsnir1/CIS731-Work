@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "chunk_id": {
+      "type": "string",
+      "pattern": "^vocadito_\\d+:(A1|A2):w\\d{4}$"
+    },
+    "doc_id": {
+      "type": "string"
+    },
+    "annotator": {
+      "type": "string",
+      "enum": ["A1", "A2"]
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "track": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "audio_uri": {
+      "type": "string"
+    },
+    "source_revision": {
+      "type": "string"
+    },
+    "ts_start": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "ts_end": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "offset_start_sec": {
+      "type": "number"
+    },
+    "offset_end_sec": {
+      "type": "number"
+    },
+    "text": {
+      "type": "string"
+    },
+    "ingest_ts": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "n_notes": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "source_hash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "license_class": {
+      "type": "string",
+      "enum": ["CC-BY-4.0", "CC-BY-SA-4.0", "CC0-1.0", "other"]
+    },
+    "corpus_type": {
+      "const": "music_notes"
+    },
+    "release_year": {
+      "type": "integer"
+    },
+    "trope_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "contour.ascending",
+          "contour.descending",
+          "contour.arch",
+          "contour.valley",
+          "contour.static",
+          "contour.undulating",
+          "contour.mixed",
+          "contour.undetermined"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 1
+    },
+    "embedding_model": {
+      "const": "pc12-int25-v1"
+    },
+    "embedding_dim": {
+      "const": 37
+    },
+    "vector": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "minItems": 37,
+      "maxItems": 37
+    },
+    "created_ts": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "chunk_id",
+    "doc_id",
+    "annotator",
+    "record_id",
+    "track",
+    "source_id",
+    "audio_uri",
+    "source_revision",
+    "ts_start",
+    "ts_end",
+    "offset_start_sec",
+    "offset_end_sec",
+    "text",
+    "ingest_ts",
+    "n_notes",
+    "source_hash",
+    "license_class",
+    "corpus_type",
+    "release_year",
+    "trope_ids",
+    "embedding_model",
+    "embedding_dim",
+    "vector",
+    "created_ts"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "n_notes": {
+            "maximum": 2
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "trope_ids": {
+            "items": {
+              "const": "contour.undetermined"
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "trope_ids": {
+            "items": {
+              "not": {
+                "const": "contour.undetermined"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

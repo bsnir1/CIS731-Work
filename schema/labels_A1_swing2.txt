@@ -1,0 +1,207 @@
+thresholds: swing>=2, reversals>=4
+../vocadito/annotations/notes/vocadito_10_notesA1.csv: 35 notes, 5 windows
+    contour.arch: 2
+    contour.undulating: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_11_notesA1.csv: 37 notes, 6 windows
+    contour.arch: 1
+    contour.descending: 1
+    contour.undulating: 1
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_12_notesA1.csv: 27 notes, 4 windows
+    contour.arch: 1
+    contour.ascending: 1
+    contour.undulating: 1
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_13_notesA1.csv: 74 notes, 12 windows
+    contour.descending: 1
+    contour.mixed: 1
+    contour.undulating: 4
+    contour.valley: 6
+../vocadito/annotations/notes/vocadito_14_notesA1.csv: 34 notes, 5 windows
+    contour.arch: 3
+    contour.undulating: 1
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_15_notesA1.csv: 47 notes, 7 windows
+    contour.arch: 1
+    contour.ascending: 1
+    contour.descending: 2
+    contour.mixed: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_16_notesA1.csv: 47 notes, 7 windows
+    contour.arch: 2
+    contour.undulating: 5
+../vocadito/annotations/notes/vocadito_17_notesA1.csv: 54 notes, 8 windows
+    contour.arch: 3
+    contour.ascending: 1
+    contour.descending: 1
+    contour.undulating: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_18_notesA1.csv: 45 notes, 7 windows
+    contour.arch: 3
+    contour.undulating: 3
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_19_notesA1.csv: 73 notes, 12 windows
+    contour.arch: 3
+    contour.ascending: 1
+    contour.undulating: 4
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_1_notesA1.csv: 59 notes, 9 windows
+    contour.arch: 3
+    contour.descending: 1
+    contour.undulating: 4
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_20_notesA1.csv: 31 notes, 5 windows
+    contour.arch: 2
+    contour.ascending: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_21_notesA1.csv: 97 notes, 16 windows
+    contour.arch: 2
+    contour.ascending: 1
+    contour.descending: 1
+    contour.mixed: 1
+    contour.undulating: 4
+    contour.valley: 7
+../vocadito/annotations/notes/vocadito_22_notesA1.csv: 45 notes, 7 windows
+    contour.arch: 2
+    contour.undulating: 2
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_23_notesA1.csv: 53 notes, 8 windows
+    contour.arch: 2
+    contour.descending: 1
+    contour.mixed: 1
+    contour.undulating: 3
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_24_notesA1.csv: 39 notes, 6 windows
+    contour.arch: 3
+    contour.ascending: 1
+    contour.descending: 1
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_25_notesA1.csv: 38 notes, 6 windows
+    contour.arch: 2
+    contour.undulating: 3
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_26_notesA1.csv: 73 notes, 12 windows
+    contour.arch: 4
+    contour.descending: 2
+    contour.undulating: 3
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_27_notesA1.csv: 34 notes, 5 windows
+    contour.arch: 1
+    contour.undulating: 2
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_28_notesA1.csv: 44 notes, 7 windows
+    contour.arch: 2
+    contour.ascending: 1
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_29_notesA1.csv: 36 notes, 5 windows
+    contour.arch: 2
+    contour.mixed: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_2_notesA1.csv: 76 notes, 12 windows
+    contour.ascending: 2
+    contour.descending: 4
+    contour.mixed: 2
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_30_notesA1.csv: 58 notes, 9 windows
+    contour.arch: 2
+    contour.descending: 1
+    contour.undulating: 4
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_31_notesA1.csv: 47 notes, 7 windows
+    contour.arch: 2
+    contour.descending: 1
+    contour.undulating: 4
+../vocadito/annotations/notes/vocadito_32_notesA1.csv: 57 notes, 9 windows
+    contour.arch: 2
+    contour.descending: 3
+    contour.mixed: 1
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_33_notesA1.csv: 80 notes, 13 windows
+    contour.arch: 3
+    contour.descending: 3
+    contour.undulating: 5
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_34_notesA1.csv: 89 notes, 14 windows
+    contour.arch: 3
+    contour.descending: 2
+    contour.undulating: 5
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_35_notesA1.csv: 37 notes, 6 windows
+    contour.descending: 1
+    contour.undulating: 3
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_36_notesA1.csv: 67 notes, 11 windows
+    contour.arch: 4
+    contour.ascending: 2
+    contour.descending: 2
+    contour.undulating: 2
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_37_notesA1.csv: 51 notes, 8 windows
+    contour.arch: 4
+    contour.ascending: 1
+    contour.descending: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_38_notesA1.csv: 78 notes, 12 windows
+    contour.arch: 3
+    contour.ascending: 1
+    contour.descending: 1
+    contour.undulating: 3
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_39_notesA1.csv: 92 notes, 15 windows
+    contour.arch: 1
+    contour.ascending: 2
+    contour.descending: 3
+    contour.mixed: 1
+    contour.undulating: 5
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_3_notesA1.csv: 51 notes, 8 windows
+    contour.arch: 4
+    contour.ascending: 1
+    contour.mixed: 1
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_40_notesA1.csv: 45 notes, 7 windows
+    contour.arch: 1
+    contour.descending: 1
+    contour.undulating: 4
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_4_notesA1.csv: 69 notes, 11 windows
+    contour.arch: 2
+    contour.mixed: 1
+    contour.undulating: 5
+    contour.valley: 3
+../vocadito/annotations/notes/vocadito_5_notesA1.csv: 96 notes, 15 windows
+    contour.arch: 3
+    contour.ascending: 4
+    contour.descending: 4
+    contour.valley: 4
+../vocadito/annotations/notes/vocadito_6_notesA1.csv: 73 notes, 12 windows
+    contour.arch: 2
+    contour.ascending: 2
+    contour.descending: 4
+    contour.undulating: 2
+    contour.valley: 2
+../vocadito/annotations/notes/vocadito_7_notesA1.csv: 47 notes, 7 windows
+    contour.arch: 4
+    contour.ascending: 1
+    contour.descending: 1
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_8_notesA1.csv: 40 notes, 6 windows
+    contour.ascending: 1
+    contour.descending: 1
+    contour.mixed: 2
+    contour.undulating: 1
+    contour.valley: 1
+../vocadito/annotations/notes/vocadito_9_notesA1.csv: 62 notes, 10 windows
+    contour.arch: 3
+    contour.ascending: 1
+    contour.descending: 1
+    contour.mixed: 1
+    contour.undulating: 4
+TOTAL
+    contour.arch: 87
+    contour.ascending: 26
+    contour.descending: 45
+    contour.mixed: 14
+    contour.undulating: 89
+    contour.valley: 90
