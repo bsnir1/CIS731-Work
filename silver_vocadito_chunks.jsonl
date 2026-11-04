@@ -1,0 +1,638 @@
+{"chunk_id": "vocadito_10:A1:w0000", "doc_id": "vocadito_10", "annotator": "A1", "n_notes": 12, "text": "44 47 47 46 47 51 54 54 54 56 51 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_10:A1:w0006", "doc_id": "vocadito_10", "annotator": "A1", "n_notes": 12, "text": "54 54 54 56 51 49 46 45 42 45 47 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_10:A1:w0012", "doc_id": "vocadito_10", "annotator": "A1", "n_notes": 12, "text": "46 45 42 45 47 47 43 46 47 45 50 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_10:A1:w0018", "doc_id": "vocadito_10", "annotator": "A1", "n_notes": 12, "text": "43 46 47 45 50 54 54 56 51 52 48 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_10:A1:w0024", "doc_id": "vocadito_10", "annotator": "A1", "n_notes": 11, "text": "54 56 51 52 48 46 46 42 45 46 48", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_11:A1:w0000", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 12, "text": "57 57 52 53 56 61 61 61 57 57 61 63", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_11:A1:w0006", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 12, "text": "61 61 57 57 61 63 64 62 61 61 59 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_11:A1:w0012", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 12, "text": "64 62 61 61 59 59 61 62 62 61 59 61", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_11:A1:w0018", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 12, "text": "61 62 62 61 59 61 56 57 57 57 61 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_11:A1:w0024", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 12, "text": "56 57 57 57 61 59 56 51 54 55 56 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_11:A1:w0030", "doc_id": "vocadito_11", "annotator": "A1", "n_notes": 7, "text": "56 51 54 55 56 58 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_12:A1:w0000", "doc_id": "vocadito_12", "annotator": "A1", "n_notes": 12, "text": "53 59 58 59 61 56 61 59 58 56 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_12:A1:w0006", "doc_id": "vocadito_12", "annotator": "A1", "n_notes": 12, "text": "61 59 58 56 58 59 54 59 58 59 59 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_12:A1:w0012", "doc_id": "vocadito_12", "annotator": "A1", "n_notes": 12, "text": "54 59 58 59 59 61 56 60 61 59 58 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_12:A1:w0018", "doc_id": "vocadito_12", "annotator": "A1", "n_notes": 9, "text": "56 60 61 59 58 56 56 58 59", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_13:A1:w0000", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "42 47 52 51 52 51 50 53 52 48 46 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_13:A1:w0006", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "50 53 52 48 46 49 48 48 49 49 48 49", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_13:A1:w0012", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "48 48 49 49 48 49 48 43 46 45 44 46", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A1:w0018", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "48 43 46 45 44 46 46 46 47 47 43 44", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_13:A1:w0024", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "46 46 47 47 43 44 47 49 52 54 56 54", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A1:w0030", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "47 49 52 54 56 54 51 52 50 52 49 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_13:A1:w0036", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "51 52 50 52 49 54 57 56 57 53 57 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_13:A1:w0042", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "57 56 57 53 57 52 48 49 52 51 52 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A1:w0048", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "48 49 52 51 52 55 53 53 49 44 47 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A1:w0054", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "53 53 49 44 47 55 53 54 52 52 51 52", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A1:w0060", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 12, "text": "53 54 52 52 51 52 52 53 52 50 49 47", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_13:A1:w0066", "doc_id": "vocadito_13", "annotator": "A1", "n_notes": 8, "text": "52 53 52 50 49 47 41 44", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_14:A1:w0000", "doc_id": "vocadito_14", "annotator": "A1", "n_notes": 12, "text": "54 54 54 55 54 59 59 58 54 53 54 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_14:A1:w0006", "doc_id": "vocadito_14", "annotator": "A1", "n_notes": 12, "text": "59 58 54 53 54 56 54 61 61 59 55 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_14:A1:w0012", "doc_id": "vocadito_14", "annotator": "A1", "n_notes": 12, "text": "54 61 61 59 55 53 59 63 65 63 59 58", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_14:A1:w0018", "doc_id": "vocadito_14", "annotator": "A1", "n_notes": 12, "text": "59 63 65 63 59 58 56 60 63 64 64 63", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_14:A1:w0024", "doc_id": "vocadito_14", "annotator": "A1", "n_notes": 10, "text": "56 60 63 64 64 63 58 60 61 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_15:A1:w0000", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "53 56 58 59 61 63 64 61 56 59 66 66", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_15:A1:w0006", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "64 61 56 59 66 66 68 68 69 66 63 61", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_15:A1:w0012", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "68 68 69 66 63 61 63 61 63 65 67 66", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_15:A1:w0018", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "63 61 63 65 67 66 68 68 68 66 61 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_15:A1:w0024", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "68 68 68 66 61 63 61 61 61 56 56 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_15:A1:w0030", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 12, "text": "61 61 61 56 56 57 59 56 55 56 55 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_15:A1:w0036", "doc_id": "vocadito_15", "annotator": "A1", "n_notes": 11, "text": "59 56 55 56 55 55 51 56 58 56 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_16:A1:w0000", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "54 56 58 59 59 59 54 61 62 60 59 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_16:A1:w0006", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "54 61 62 60 59 59 55 54 60 62 59 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_16:A1:w0012", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "55 54 60 62 59 54 60 62 59 56 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A1:w0018", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "60 62 59 56 58 59 59 59 56 58 59 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A1:w0024", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "59 59 56 58 59 61 54 61 63 61 54 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A1:w0030", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 12, "text": "54 61 63 61 54 61 63 61 64 66 66 66", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A1:w0036", "doc_id": "vocadito_16", "annotator": "A1", "n_notes": 11, "text": "63 61 64 66 66 66 64 61 63 61 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_17:A1:w0000", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "55 64 66 65 63 61 59 62 63 65 66 65", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_17:A1:w0006", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "59 62 63 65 66 65 63 61 59 58 63 60", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A1:w0012", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "63 61 59 58 63 60 59 58 56 56 58 58", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_17:A1:w0018", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "59 58 56 56 58 58 59 61 63 64 62 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_17:A1:w0024", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "59 61 63 64 62 62 58 58 55 54 54 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A1:w0030", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "58 58 55 54 54 54 56 60 63 64 66 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_17:A1:w0036", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "56 60 63 64 66 65 65 61 53 56 57 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A1:w0042", "doc_id": "vocadito_17", "annotator": "A1", "n_notes": 12, "text": "65 61 53 56 57 59 54 61 63 61 59 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A1:w0000", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "56 53 52 51 50 56 59 54 55 54 52 52", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_18:A1:w0006", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "59 54 55 54 52 52 44 56 53 54 52 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_18:A1:w0012", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "44 56 53 54 52 50 48 47 48 50 53 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_18:A1:w0018", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "48 47 48 50 53 50 47 50 54 57 52 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A1:w0024", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "47 50 54 57 52 54 52 50 57 59 54 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A1:w0030", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 12, "text": "52 50 57 59 54 54 52 52 57 54 53 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A1:w0036", "doc_id": "vocadito_18", "annotator": "A1", "n_notes": 9, "text": "52 52 57 54 53 52 49 48 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_19:A1:w0000", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "47 56 59 57 55 51 54 49 46 59 57 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A1:w0006", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "54 49 46 59 57 55 52 54 55 57 57 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A1:w0012", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "52 54 55 57 57 53 50 54 56 56 53 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_19:A1:w0018", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "50 54 56 56 53 48 50 50 53 55 56 57", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_19:A1:w0024", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "50 50 53 55 56 57 57 58 61 63 62 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_19:A1:w0030", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "57 58 61 63 62 59 56 56 53 52 49 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A1:w0036", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "56 56 53 52 49 60 58 59 56 52 53 51", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_19:A1:w0042", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "58 59 56 52 53 51 56 52 51 48 49 52", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A1:w0048", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "56 52 51 48 49 52 53 56 57 54 55 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A1:w0054", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "53 56 57 54 55 56 58 46 59 48 59 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A1:w0060", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 12, "text": "58 46 59 48 59 56 55 51 51 53 55 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A1:w0066", "doc_id": "vocadito_19", "annotator": "A1", "n_notes": 7, "text": "55 51 51 53 55 57 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A1:w0000", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "50 51 53 50 46 48 51 51 53 51 50 47", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_1:A1:w0006", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "51 51 53 51 50 47 47 50 51 50 51 48", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_1:A1:w0012", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "47 50 51 50 51 48 48 49 51 50 48 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_1:A1:w0018", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "48 49 51 50 48 46 50 49 46 46 48 50", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A1:w0024", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "50 49 46 46 48 50 50 50 51 53 55 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A1:w0030", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "50 50 51 53 55 55 55 55 51 54 53 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_1:A1:w0036", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "55 55 51 54 53 48 49 51 50 47 45 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A1:w0042", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 12, "text": "49 51 50 47 45 55 55 55 51 54 53 48", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A1:w0048", "doc_id": "vocadito_1", "annotator": "A1", "n_notes": 11, "text": "55 55 51 54 53 48 49 51 50 48 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_20:A1:w0000", "doc_id": "vocadito_20", "annotator": "A1", "n_notes": 12, "text": "54 59 59 61 60 58 55 56 55 61 61 63", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_20:A1:w0006", "doc_id": "vocadito_20", "annotator": "A1", "n_notes": 12, "text": "55 56 55 61 61 63 61 60 58 54 54 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_20:A1:w0012", "doc_id": "vocadito_20", "annotator": "A1", "n_notes": 12, "text": "61 60 58 54 54 54 57 62 63 64 63 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_20:A1:w0018", "doc_id": "vocadito_20", "annotator": "A1", "n_notes": 12, "text": "57 62 63 64 63 60 59 55 54 56 61 58", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_20:A1:w0024", "doc_id": "vocadito_20", "annotator": "A1", "n_notes": 7, "text": "59 55 54 56 61 58 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0000", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "49 51 50 52 50 51 51 50 51 44 48 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0006", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "51 50 51 44 48 51 51 49 49 49 50 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0012", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "51 49 49 49 50 49 49 48 49 41 44 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0018", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "49 48 49 41 44 47 49 49 51 50 50 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0024", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "49 49 51 50 50 51 51 51 51 51 53 55", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_21:A1:w0030", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "51 51 51 51 53 55 56 58 58 57 52 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_21:A1:w0036", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "56 58 58 57 52 50 49 47 48 50 47 43", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_21:A1:w0042", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "49 47 48 50 47 43 46 53 51 52 52 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_21:A1:w0048", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "46 53 51 52 52 52 53 44 47 48 51 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_21:A1:w0054", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "53 44 47 48 51 52 50 49 50 48 49 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0060", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "50 49 50 48 49 50 51 51 43 44 45 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0066", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "51 51 43 44 45 47 50 51 52 50 52 52", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A1:w0072", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "50 51 52 50 52 52 55 55 57 58 58 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_21:A1:w0078", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "55 55 57 58 58 55 55 51 53 50 47 50", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_21:A1:w0084", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 12, "text": "55 51 53 50 47 50 45 47 43 42 45 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_21:A1:w0090", "doc_id": "vocadito_21", "annotator": "A1", "n_notes": 7, "text": "45 47 43 42 45 46 44", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_22:A1:w0000", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "60 56 57 56 57 61 60 60 57 56 57 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A1:w0006", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "60 60 57 56 57 60 56 59 60 60 60 63", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A1:w0012", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "56 59 60 60 60 63 61 59 61 63 60 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_22:A1:w0018", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "61 59 61 63 60 56 56 57 60 58 56 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_22:A1:w0024", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "56 57 60 58 56 57 61 57 54 51 57 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_22:A1:w0030", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 12, "text": "61 57 54 51 57 56 57 58 61 61 58 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A1:w0036", "doc_id": "vocadito_22", "annotator": "A1", "n_notes": 9, "text": "57 58 61 61 58 57 58 60 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_23:A1:w0000", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "47 47 48 49 47 43 47 47 49 47 46 43", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_23:A1:w0006", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "47 47 49 47 46 43 51 50 50 52 51 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_23:A1:w0012", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "51 50 50 52 51 49 52 51 49 50 52 51", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_23:A1:w0018", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "52 51 49 50 52 51 48 45 46 48 45 43", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A1:w0024", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "48 45 46 48 45 43 46 45 45 47 45 43", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A1:w0030", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "46 45 45 47 45 43 44 44 44 46 50 44", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_23:A1:w0036", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 12, "text": "44 44 44 46 50 44 45 48 45 45 45 48", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A1:w0042", "doc_id": "vocadito_23", "annotator": "A1", "n_notes": 11, "text": "45 48 45 45 45 48 49 50 57 56 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_24:A1:w0000", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 12, "text": "55 59 60 56 54 54 54 56 56 59 61 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_24:A1:w0006", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 12, "text": "54 56 56 59 61 56 55 56 57 60 63 61", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_24:A1:w0012", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 12, "text": "55 56 57 60 63 61 62 60 57 56 57 58", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_24:A1:w0018", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 12, "text": "62 60 57 56 57 58 61 61 56 56 57 58", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_24:A1:w0024", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 12, "text": "61 61 56 56 57 58 60 56 55 56 59 64", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_24:A1:w0030", "doc_id": "vocadito_24", "annotator": "A1", "n_notes": 9, "text": "60 56 55 56 59 64 64 59 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_25:A1:w0000", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 12, "text": "58 61 62 59 59 62 62 61 63 65 60 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_25:A1:w0006", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 12, "text": "62 61 63 65 60 61 64 65 63 66 64 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A1:w0012", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 12, "text": "64 65 63 66 64 61 61 56 63 64 64 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_25:A1:w0018", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 12, "text": "61 56 63 64 64 61 60 56 58 54 56 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A1:w0024", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 12, "text": "60 56 58 54 56 53 52 56 58 55 54 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A1:w0030", "doc_id": "vocadito_25", "annotator": "A1", "n_notes": 8, "text": "52 56 58 55 54 56 56 53", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A1:w0000", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "43 44 45 45 46 48 50 48 48 49 48 47", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A1:w0006", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "50 48 48 49 48 47 45 45 44 39 42 43", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_26:A1:w0012", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "45 45 44 39 42 43 42 41 40 41 38 39", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_26:A1:w0018", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "42 41 40 41 38 39 42 44 45 46 48 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_26:A1:w0024", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "42 44 45 46 48 50 49 49 47 45 44 44", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A1:w0030", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "49 49 47 45 44 44 44 44 47 49 50 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_26:A1:w0036", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "44 44 47 49 50 49 53 53 49 49 53 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A1:w0042", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "53 53 49 49 53 49 49 54 51 51 52 50", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A1:w0048", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "49 54 51 51 52 50 48 51 52 54 50 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A1:w0054", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "48 51 52 54 50 49 49 53 49 49 53 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A1:w0060", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 12, "text": "49 53 49 49 53 49 53 51 51 52 54 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A1:w0066", "doc_id": "vocadito_26", "annotator": "A1", "n_notes": 7, "text": "53 51 51 52 54 51 50", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_27:A1:w0000", "doc_id": "vocadito_27", "annotator": "A1", "n_notes": 12, "text": "59 59 54 59 61 57 58 58 57 59 56 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_27:A1:w0006", "doc_id": "vocadito_27", "annotator": "A1", "n_notes": 12, "text": "58 58 57 59 56 55 54 53 54 48 58 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_27:A1:w0012", "doc_id": "vocadito_27", "annotator": "A1", "n_notes": 12, "text": "54 53 54 48 58 58 54 58 61 58 57 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_27:A1:w0018", "doc_id": "vocadito_27", "annotator": "A1", "n_notes": 12, "text": "54 58 61 58 57 58 56 55 53 53 54 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_27:A1:w0024", "doc_id": "vocadito_27", "annotator": "A1", "n_notes": 10, "text": "56 55 53 53 54 50 51 53 52 54", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A1:w0000", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "48 48 48 42 41 48 49 47 48 46 46 46", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A1:w0006", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "49 47 48 46 46 46 39 46 48 46 44 45", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A1:w0012", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "39 46 48 46 44 45 44 48 48 48 48 48", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_28:A1:w0018", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "44 48 48 48 48 48 47 46 47 51 48 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_28:A1:w0024", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "47 46 47 51 48 46 46 47 46 45 48 47", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_28:A1:w0030", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 12, "text": "46 47 46 45 48 47 45 44 43 40 43 45", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A1:w0036", "doc_id": "vocadito_28", "annotator": "A1", "n_notes": 8, "text": "45 44 43 40 43 45 49 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_29:A1:w0000", "doc_id": "vocadito_29", "annotator": "A1", "n_notes": 12, "text": "56 53 54 56 59 60 60 60 60 58 58 57", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_29:A1:w0006", "doc_id": "vocadito_29", "annotator": "A1", "n_notes": 12, "text": "60 60 60 58 58 57 56 55 55 56 57 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_29:A1:w0012", "doc_id": "vocadito_29", "annotator": "A1", "n_notes": 12, "text": "56 55 55 56 57 59 60 57 55 53 54 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_29:A1:w0018", "doc_id": "vocadito_29", "annotator": "A1", "n_notes": 12, "text": "60 57 55 53 54 55 56 57 60 60 59 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_29:A1:w0024", "doc_id": "vocadito_29", "annotator": "A1", "n_notes": 12, "text": "56 57 60 60 59 57 58 56 56 55 60 53", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_2:A1:w0000", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "60 62 64 65 67 67 68 68 67 65 66 66", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_2:A1:w0006", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "68 68 67 65 66 66 64 63 64 64 64 64", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_2:A1:w0012", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "64 63 64 64 64 64 64 65 65 67 67 66", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_2:A1:w0018", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "64 65 65 67 67 66 64 62 65 65 66 65", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_2:A1:w0024", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "64 62 65 65 66 65 63 60 62 64 65 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A1:w0030", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "63 60 62 64 65 65 66 67 67 67 67 68", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A1:w0036", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "66 67 67 67 67 68 67 67 66 65 64 63", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_2:A1:w0042", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "67 67 66 65 64 63 60 64 64 63 62 64", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A1:w0048", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "60 64 64 63 62 64 65 66 67 67 67 67", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_2:A1:w0054", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "65 66 67 67 67 67 66 65 64 62 65 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A1:w0060", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 12, "text": "66 65 64 62 65 65 65 65 64 65 65 62", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_2:A1:w0066", "doc_id": "vocadito_2", "annotator": "A1", "n_notes": 10, "text": "65 65 64 65 65 62 60 59 60 60", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_30:A1:w0000", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "51 53 53 60 57 56 60 65 56 61 59 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_30:A1:w0006", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "60 65 56 61 59 61 58 60 58 56 54 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_30:A1:w0012", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "58 60 58 56 54 55 52 50 51 53 63 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_30:A1:w0018", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "52 50 51 53 63 59 58 55 59 56 55 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_30:A1:w0024", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "58 55 59 56 55 54 50 50 53 60 57 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_30:A1:w0030", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "50 50 53 60 57 60 60 60 61 58 57 57", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_30:A1:w0036", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "60 60 61 58 57 57 54 56 54 52 51 48", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_30:A1:w0042", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 12, "text": "54 56 54 52 51 48 49 47 48 49 58 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_30:A1:w0048", "doc_id": "vocadito_30", "annotator": "A1", "n_notes": 10, "text": "49 47 48 49 58 57 60 57 54 51", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_31:A1:w0000", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "56 55 56 59 58 64 61 61 60 58 60 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_31:A1:w0006", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "61 61 60 58 60 61 60 58 59 54 59 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A1:w0012", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "60 58 59 54 59 57 59 60 58 58 60 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A1:w0018", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "59 60 58 58 60 58 61 61 62 64 54 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_31:A1:w0024", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "61 61 62 64 54 54 58 60 60 54 59 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A1:w0030", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 12, "text": "58 60 60 54 59 60 60 54 57 60 60 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A1:w0036", "doc_id": "vocadito_31", "annotator": "A1", "n_notes": 11, "text": "60 54 57 60 60 60 60 61 60 54 56", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_32:A1:w0000", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "57 57 55 54 62 62 63 64 61 61 59 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_32:A1:w0006", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "63 64 61 61 59 59 58 60 55 56 53 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A1:w0012", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "58 60 55 56 53 61 60 61 61 60 59 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A1:w0018", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "60 61 61 60 59 59 58 58 58 56 56 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_32:A1:w0024", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "58 58 58 56 56 57 60 60 60 61 60 59", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_32:A1:w0030", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "60 60 60 61 60 59 59 58 58 58 58 56", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_32:A1:w0036", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "59 58 58 58 58 56 55 54 55 61 61 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A1:w0042", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 12, "text": "55 54 55 61 61 62 62 60 58 58 57 57", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_32:A1:w0048", "doc_id": "vocadito_32", "annotator": "A1", "n_notes": 9, "text": "62 60 58 58 57 57 55 55 53", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A1:w0000", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "54 58 55 53 54 52 57 56 57 54 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A1:w0006", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "57 56 57 54 58 59 60 54 54 53 53 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A1:w0012", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "60 54 54 53 53 55 58 58 57 56 57 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_33:A1:w0018", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "58 58 57 56 57 56 54 53 53 52 51 50", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A1:w0024", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "54 53 53 52 51 50 50 47 45 46 47 45", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A1:w0030", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "50 47 45 46 47 45 47 46 46 45 45 47", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A1:w0036", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "47 46 46 45 45 47 48 48 46 50 50 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A1:w0042", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "48 48 46 50 50 46 50 51 52 52 54 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A1:w0048", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "50 51 52 52 54 51 50 49 48 48 46 54", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_33:A1:w0054", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "50 49 48 48 46 54 54 57 57 53 49 52", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A1:w0060", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "54 57 57 53 49 52 54 55 52 50 57 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A1:w0066", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 12, "text": "54 55 52 50 57 57 57 56 56 59 56 52", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A1:w0072", "doc_id": "vocadito_33", "annotator": "A1", "n_notes": 8, "text": "57 56 56 59 56 52 53 52", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_34:A1:w0000", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "59 60 60 59 56 55 55 55 51 53 55 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A1:w0006", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "55 55 51 53 55 57 59 57 57 56 57 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A1:w0012", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "59 57 57 56 57 59 59 59 57 55 55 56", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_34:A1:w0018", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "59 59 57 55 55 56 61 62 63 59 56 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A1:w0024", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "61 62 63 59 56 55 55 55 55 53 56 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A1:w0030", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "55 55 55 53 56 59 57 55 58 59 58 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A1:w0036", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "57 55 58 59 58 56 54 59 62 59 57 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A1:w0042", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "54 59 62 59 57 57 59 58 57 56 55 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A1:w0048", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "59 58 57 56 55 59 62 62 60 58 57 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A1:w0054", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "62 62 60 58 57 55 55 58 59 59 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_34:A1:w0060", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "55 58 59 59 56 54 55 52 52 55 58 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A1:w0066", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "55 52 52 55 58 58 59 57 60 59 58 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A1:w0072", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 12, "text": "59 57 60 59 58 56 55 50 60 63 62 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A1:w0078", "doc_id": "vocadito_34", "annotator": "A1", "n_notes": 11, "text": "55 50 60 63 62 59 57 55 55 55 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_35:A1:w0000", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 12, "text": "50 47 43 45 48 50 53 51 49 48 46 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_35:A1:w0006", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 12, "text": "53 51 49 48 46 47 50 43 45 48 51 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A1:w0012", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 12, "text": "50 43 45 48 51 49 47 48 44 41 49 45", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A1:w0018", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 12, "text": "47 48 44 41 49 45 44 42 44 47 48 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_35:A1:w0024", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 12, "text": "44 42 44 47 48 49 51 43 45 43 43 40", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A1:w0030", "doc_id": "vocadito_35", "annotator": "A1", "n_notes": 7, "text": "51 43 45 43 43 40 41", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_36:A1:w0000", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "44 44 44 46 49 49 48 46 48 50 51 55", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_36:A1:w0006", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "48 46 48 50 51 55 56 56 49 51 51 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_36:A1:w0012", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "56 56 49 51 51 46 48 49 43 45 45 48", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_36:A1:w0018", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "48 49 43 45 45 48 51 49 47 46 43 43", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A1:w0024", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "51 49 47 46 43 43 43 44 45 43 45 44", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_36:A1:w0030", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "43 44 45 43 45 44 45 47 49 49 47 47", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_36:A1:w0036", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "45 47 49 49 47 47 49 51 52 56 56 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A1:w0042", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "49 51 52 56 56 50 51 51 46 48 49 43", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A1:w0048", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "51 51 46 48 49 43 45 46 47 49 51 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_36:A1:w0054", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 12, "text": "45 46 47 49 51 50 48 45 46 42 42 44", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A1:w0060", "doc_id": "vocadito_36", "annotator": "A1", "n_notes": 7, "text": "48 45 46 42 42 44 44", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_37:A1:w0000", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "56 57 59 62 63 65 67 59 57 61 62 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A1:w0006", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "67 59 57 61 62 63 65 66 62 62 61 59", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_37:A1:w0012", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "65 66 62 62 61 59 61 62 63 64 66 67", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_37:A1:w0018", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "61 62 63 64 66 67 66 66 61 55 57 57", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A1:w0024", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "66 66 61 55 57 57 59 62 63 65 67 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_37:A1:w0030", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "59 62 63 65 67 58 58 57 62 64 66 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A1:w0036", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 12, "text": "58 57 62 64 66 61 61 61 62 65 66 64", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_37:A1:w0042", "doc_id": "vocadito_37", "annotator": "A1", "n_notes": 9, "text": "61 61 62 65 66 64 60 61 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A1:w0000", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "61 61 63 62 59 54 55 59 62 61 63 64", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A1:w0006", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "55 59 62 61 63 64 61 58 57 62 61 62", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_38:A1:w0012", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "61 58 57 62 61 62 59 61 62 64 62 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_38:A1:w0018", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "59 61 62 64 62 58 58 55 55 58 62 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A1:w0024", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "58 55 55 58 62 62 64 64 64 62 62 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A1:w0030", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "64 64 64 62 62 59 56 61 54 62 63 63", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A1:w0036", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "56 61 54 62 63 63 67 63 62 61 59 58", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A1:w0042", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "67 63 62 61 59 58 58 56 57 61 59 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A1:w0048", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "58 56 57 61 59 61 54 62 61 63 61 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_38:A1:w0054", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "54 62 61 63 61 58 55 58 61 58 59 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_38:A1:w0060", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "55 58 61 58 59 61 63 64 63 64 61 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A1:w0066", "doc_id": "vocadito_38", "annotator": "A1", "n_notes": 12, "text": "63 64 63 64 61 59 59 56 57 62 54 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A1:w0000", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "64 66 65 66 65 65 62 62 61 63 62 60", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A1:w0006", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "62 62 61 63 62 60 62 60 62 59 60 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A1:w0012", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "62 60 62 59 60 56 55 55 60 62 60 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A1:w0018", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "55 55 60 62 60 62 57 60 58 55 52 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A1:w0024", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "57 60 58 55 52 56 59 61 64 67 68 67", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A1:w0030", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "59 61 64 67 68 67 65 65 67 65 66 65", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_39:A1:w0036", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "65 65 67 65 66 65 64 62 60 62 63 62", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A1:w0042", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "64 62 60 62 63 62 63 61 62 60 58 60", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A1:w0048", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "63 61 62 60 58 60 61 58 60 59 55 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A1:w0054", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "61 58 60 59 55 55 57 55 58 59 62 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A1:w0060", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "57 55 58 59 62 60 61 60 59 60 61 60", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_39:A1:w0066", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "61 60 59 60 61 60 61 60 58 65 65 66", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A1:w0072", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "61 60 58 65 65 66 64 65 65 66 66 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A1:w0078", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 12, "text": "64 65 65 66 66 65 65 66 65 65 65 67", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_39:A1:w0084", "doc_id": "vocadito_39", "annotator": "A1", "n_notes": 8, "text": "65 66 65 65 65 67 65 64", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_3:A1:w0000", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "49 52 54 56 54 53 49 51 51 53 51 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A1:w0006", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "49 51 51 53 51 49 43 46 49 51 49 47", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_3:A1:w0012", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "43 46 49 51 49 47 55 56 57 58 56 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A1:w0018", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "55 56 57 58 56 54 49 49 54 55 54 53", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_3:A1:w0024", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "49 49 54 55 54 53 49 50 52 53 50 51", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A1:w0030", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "49 50 52 53 50 51 49 49 46 47 49 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A1:w0036", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 12, "text": "49 49 46 47 49 49 48 49 51 53 54 53", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_3:A1:w0042", "doc_id": "vocadito_3", "annotator": "A1", "n_notes": 9, "text": "48 49 51 53 54 53 51 53 54", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_40:A1:w0000", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "62 67 63 58 55 64 62 60 62 59 57 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A1:w0006", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "62 60 62 59 57 58 62 66 66 63 61 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A1:w0012", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "62 66 66 63 61 59 65 64 64 62 62 67", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A1:w0018", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "65 64 64 62 62 67 63 58 55 64 61 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A1:w0024", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "63 58 55 64 61 60 61 58 57 62 62 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_40:A1:w0030", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 12, "text": "61 58 57 62 62 65 66 63 61 59 59 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_40:A1:w0036", "doc_id": "vocadito_40", "annotator": "A1", "n_notes": 9, "text": "66 63 61 59 59 56 56 54 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_4:A1:w0000", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "47 50 50 47 46 46 46 44 42 45 44 48", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_4:A1:w0006", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "46 44 42 45 44 48 50 51 49 48 48 47", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_4:A1:w0012", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "50 51 49 48 48 47 46 46 45 44 43 46", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_4:A1:w0018", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "46 46 45 44 43 46 48 50 50 48 46 45", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_4:A1:w0024", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "48 50 50 48 46 45 49 50 51 49 50 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A1:w0030", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "49 50 51 49 50 52 51 49 49 48 49 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A1:w0036", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "51 49 49 48 49 51 50 48 50 49 47 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A1:w0042", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "50 48 50 49 47 46 39 41 44 45 46 39", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A1:w0048", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "39 41 44 45 46 39 46 48 43 42 40 41", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_4:A1:w0054", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 12, "text": "46 48 43 42 40 41 44 45 46 40 39 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A1:w0060", "doc_id": "vocadito_4", "annotator": "A1", "n_notes": 9, "text": "44 45 46 40 39 46 46 49 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_5:A1:w0000", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "55 57 60 59 61 59 58 56 56 59 60 60", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_5:A1:w0006", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "58 56 56 59 60 60 61 59 57 56 53 53", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_5:A1:w0012", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "61 59 57 56 53 53 56 59 59 61 58 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_5:A1:w0018", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "56 59 59 61 58 56 54 53 54 58 57 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_5:A1:w0024", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "54 53 54 58 57 59 60 58 56 54 55 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_5:A1:w0030", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "60 58 56 54 55 54 56 58 58 60 58 56", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A1:w0036", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "56 58 58 60 58 56 54 55 58 59 56 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_5:A1:w0042", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "54 55 58 59 56 56 54 52 54 57 60 59", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_5:A1:w0048", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "54 52 54 57 60 59 61 59 57 56 56 59", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_5:A1:w0054", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "61 59 57 56 56 59 59 61 59 58 57 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A1:w0060", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "59 61 59 58 57 55 59 60 57 56 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A1:w0066", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "59 60 57 56 56 54 52 55 58 58 60 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_5:A1:w0072", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "52 55 58 58 60 58 57 55 55 57 58 58", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_5:A1:w0078", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "57 55 55 57 58 58 59 58 56 54 54 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_5:A1:w0084", "doc_id": "vocadito_5", "annotator": "A1", "n_notes": 12, "text": "59 58 56 54 54 57 58 58 59 56 54 52", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_6:A1:w0000", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "59 60 60 57 60 61 64 64 65 66 64 65", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_6:A1:w0006", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "64 64 65 66 64 65 60 61 60 59 61 60", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_6:A1:w0012", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "60 61 60 59 61 60 59 60 59 57 57 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_6:A1:w0018", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "59 60 59 57 57 57 61 63 60 64 66 64", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_6:A1:w0024", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "61 63 60 64 66 64 66 65 61 61 60 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_6:A1:w0030", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "66 65 61 61 60 61 60 60 58 59 60 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_6:A1:w0036", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "60 60 58 59 60 62 61 58 60 61 64 65", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_6:A1:w0042", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "61 58 60 61 64 65 66 65 61 61 61 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A1:w0048", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "66 65 61 61 61 62 59 60 61 60 60 61", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_6:A1:w0054", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "59 60 61 60 60 61 59 55 58 62 64 66", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_6:A1:w0060", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 12, "text": "59 55 58 62 64 66 65 60 61 61 61 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A1:w0066", "doc_id": "vocadito_6", "annotator": "A1", "n_notes": 7, "text": "65 60 61 61 61 61 58", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_7:A1:w0000", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "57 59 62 61 62 65 66 69 70 66 62 65", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A1:w0006", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "66 69 70 66 62 65 66 65 64 64 64 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A1:w0012", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "66 65 64 64 64 62 59 59 61 61 60 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_7:A1:w0018", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "59 59 61 61 60 57 57 57 60 62 62 62", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_7:A1:w0024", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "57 57 60 62 62 62 66 67 69 69 66 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A1:w0030", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 12, "text": "66 67 69 69 66 62 62 66 64 64 64 64", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A1:w0036", "doc_id": "vocadito_7", "annotator": "A1", "n_notes": 11, "text": "62 66 64 64 64 64 64 57 60 61 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_8:A1:w0000", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 12, "text": "49 46 47 49 49 51 48 49 47 46 44 45", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_8:A1:w0006", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 12, "text": "48 49 47 46 44 45 47 49 49 50 48 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_8:A1:w0012", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 12, "text": "47 49 49 50 48 47 46 49 49 48 49 49", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_8:A1:w0018", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 12, "text": "46 49 49 48 49 49 49 48 49 48 49 50", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_8:A1:w0024", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 12, "text": "49 48 49 48 49 50 50 48 50 51 50 48", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_8:A1:w0030", "doc_id": "vocadito_8", "annotator": "A1", "n_notes": 10, "text": "50 48 50 51 50 48 50 51 48 50", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A1:w0000", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "51 56 58 61 62 58 58 62 65 68 63 65", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A1:w0006", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "58 62 65 68 63 65 60 63 66 68 67 64", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A1:w0012", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "60 63 66 68 67 64 63 65 65 62 62 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A1:w0018", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "63 65 65 62 62 63 62 61 57 59 51 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A1:w0024", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "62 61 57 59 51 55 58 59 61 62 59 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A1:w0030", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "58 59 61 62 59 59 58 60 63 65 67 64", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A1:w0036", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "58 60 63 65 67 64 65 64 64 68 67 66", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_9:A1:w0042", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "65 64 64 68 67 66 62 63 63 64 65 65", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_9:A1:w0048", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 12, "text": "62 63 63 64 65 65 63 62 63 63 61 60", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A1:w0054", "doc_id": "vocadito_9", "annotator": "A1", "n_notes": 8, "text": "63 62 63 63 61 60 57 59", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_10:A2:w0000", "doc_id": "vocadito_10", "annotator": "A2", "n_notes": 12, "text": "47 46 47 51 54 54 54 56 51 49 45 45", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_10:A2:w0006", "doc_id": "vocadito_10", "annotator": "A2", "n_notes": 12, "text": "54 56 51 49 45 45 47 47 46 47 46 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_10:A2:w0012", "doc_id": "vocadito_10", "annotator": "A2", "n_notes": 12, "text": "47 47 46 47 46 50 54 54 54 56 52 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_10:A2:w0018", "doc_id": "vocadito_10", "annotator": "A2", "n_notes": 9, "text": "54 54 54 56 52 48 46 46 47", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_11:A2:w0000", "doc_id": "vocadito_11", "annotator": "A2", "n_notes": 12, "text": "57 57 56 52 61 61 61 57 57 60 64 64", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_11:A2:w0006", "doc_id": "vocadito_11", "annotator": "A2", "n_notes": 12, "text": "61 57 57 60 64 64 62 61 59 59 61 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_11:A2:w0012", "doc_id": "vocadito_11", "annotator": "A2", "n_notes": 12, "text": "62 61 59 59 61 62 62 61 59 61 57 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_11:A2:w0018", "doc_id": "vocadito_11", "annotator": "A2", "n_notes": 12, "text": "62 61 59 61 57 57 60 59 52 56 59 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_12:A2:w0000", "doc_id": "vocadito_12", "annotator": "A2", "n_notes": 12, "text": "53 59 58 59 61 56 61 59 58 56 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_12:A2:w0006", "doc_id": "vocadito_12", "annotator": "A2", "n_notes": 12, "text": "61 59 58 56 58 59 54 59 58 59 61 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_12:A2:w0012", "doc_id": "vocadito_12", "annotator": "A2", "n_notes": 12, "text": "54 59 58 59 61 56 61 59 58 56 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_13:A2:w0000", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "51 51 52 52 50 53 52 49 48 48 49 50", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_13:A2:w0006", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "52 49 48 48 49 50 49 49 49 48 48 46", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_13:A2:w0012", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "49 49 49 48 48 46 46 46 45 47 52 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A2:w0018", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "46 46 45 47 52 56 54 52 50 51 57 57", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_13:A2:w0024", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "54 52 50 51 57 57 57 52 49 52 51 52", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_13:A2:w0030", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "57 52 49 52 51 52 55 53 53 52 47 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A2:w0036", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 12, "text": "55 53 53 52 47 55 54 52 52 51 52 53", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_13:A2:w0042", "doc_id": "vocadito_13", "annotator": "A2", "n_notes": 10, "text": "54 52 52 51 52 53 52 49 47 44", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_14:A2:w0000", "doc_id": "vocadito_14", "annotator": "A2", "n_notes": 12, "text": "54 54 56 54 59 59 54 53 56 54 61 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_14:A2:w0006", "doc_id": "vocadito_14", "annotator": "A2", "n_notes": 12, "text": "54 53 56 54 61 61 59 55 55 66 63 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_14:A2:w0012", "doc_id": "vocadito_14", "annotator": "A2", "n_notes": 12, "text": "59 55 55 66 63 59 58 56 62 64 63 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_14:A2:w0018", "doc_id": "vocadito_14", "annotator": "A2", "n_notes": 8, "text": "58 56 62 64 63 58 60 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_15:A2:w0000", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 12, "text": "53 56 58 59 61 63 61 56 58 66 66 68", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_15:A2:w0006", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 12, "text": "61 56 58 66 66 68 68 66 63 61 63 63", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_15:A2:w0012", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 12, "text": "68 66 63 61 63 63 65 67 66 68 68 66", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_15:A2:w0018", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 12, "text": "65 67 66 68 68 66 63 61 61 61 56 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_15:A2:w0024", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 12, "text": "63 61 61 61 56 56 56 57 59 56 55 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_15:A2:w0030", "doc_id": "vocadito_15", "annotator": "A2", "n_notes": 11, "text": "56 57 59 56 55 55 55 51 56 58 56", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_16:A2:w0000", "doc_id": "vocadito_16", "annotator": "A2", "n_notes": 12, "text": "54 56 58 59 59 59 54 62 59 59 54 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A2:w0006", "doc_id": "vocadito_16", "annotator": "A2", "n_notes": 12, "text": "54 62 59 59 54 62 59 54 62 59 58 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A2:w0012", "doc_id": "vocadito_16", "annotator": "A2", "n_notes": 12, "text": "59 54 62 59 58 59 59 59 58 59 61 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A2:w0018", "doc_id": "vocadito_16", "annotator": "A2", "n_notes": 12, "text": "59 59 58 59 61 54 63 61 54 63 61 66", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_16:A2:w0024", "doc_id": "vocadito_16", "annotator": "A2", "n_notes": 12, "text": "63 61 54 63 61 66 66 66 64 63 61 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_17:A2:w0000", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "55 64 66 65 63 61 59 59 62 65 65 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A2:w0006", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "59 59 62 65 65 63 63 61 59 58 63 60", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A2:w0012", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "63 61 59 58 63 60 59 58 56 58 59 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_17:A2:w0018", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "59 58 56 58 59 61 63 62 58 58 55 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A2:w0024", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "63 62 58 58 55 54 54 55 60 63 64 66", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_17:A2:w0030", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 12, "text": "54 55 60 63 64 66 65 61 53 53 59 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_17:A2:w0036", "doc_id": "vocadito_17", "annotator": "A2", "n_notes": 11, "text": "65 61 53 53 59 59 61 63 61 59 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_18:A2:w0000", "doc_id": "vocadito_18", "annotator": "A2", "n_notes": 12, "text": "56 53 52 50 56 59 55 54 52 52 56 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A2:w0006", "doc_id": "vocadito_18", "annotator": "A2", "n_notes": 12, "text": "55 54 52 52 56 53 52 50 47 48 50 53", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_18:A2:w0012", "doc_id": "vocadito_18", "annotator": "A2", "n_notes": 12, "text": "52 50 47 48 50 53 47 57 52 52 50 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A2:w0018", "doc_id": "vocadito_18", "annotator": "A2", "n_notes": 12, "text": "47 57 52 52 50 57 59 54 54 52 52 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_18:A2:w0024", "doc_id": "vocadito_18", "annotator": "A2", "n_notes": 10, "text": "59 54 54 52 52 57 53 52 49 46", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_19:A2:w0000", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "47 59 57 55 51 54 49 46 59 57 55 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A2:w0006", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "49 46 59 57 55 52 54 55 57 57 57 50", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A2:w0012", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "54 55 57 57 57 50 54 56 56 54 49 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A2:w0018", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "54 56 56 54 49 56 57 57 58 61 62 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A2:w0024", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "57 57 58 61 62 59 56 56 53 52 49 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A2:w0030", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "56 56 53 52 49 60 59 56 53 56 52 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_19:A2:w0036", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "59 56 53 56 52 51 48 49 52 53 56 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A2:w0042", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "48 49 52 53 56 57 54 56 58 59 59 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_19:A2:w0048", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 12, "text": "54 56 58 59 59 56 55 55 51 53 55 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_19:A2:w0054", "doc_id": "vocadito_19", "annotator": "A2", "n_notes": 7, "text": "55 55 51 53 55 57 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A2:w0000", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "50 51 51 53 53 50 46 48 51 51 53 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A2:w0006", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "46 48 51 51 53 51 50 47 47 50 51 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_1:A2:w0012", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "50 47 47 50 51 50 51 48 48 50 51 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A2:w0018", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "51 48 48 50 51 50 48 46 50 49 46 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A2:w0024", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "48 46 50 49 46 46 48 50 50 50 50 51", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_1:A2:w0030", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "48 50 50 50 50 51 53 55 55 55 55 51", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_1:A2:w0036", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "53 55 55 55 55 51 54 53 53 48 49 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A2:w0042", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "54 53 53 48 49 51 50 47 45 55 55 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_1:A2:w0048", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 12, "text": "50 47 45 55 55 55 51 54 53 53 48 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_1:A2:w0054", "doc_id": "vocadito_1", "annotator": "A2", "n_notes": 10, "text": "51 54 53 53 48 49 51 50 48 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_20:A2:w0000", "doc_id": "vocadito_20", "annotator": "A2", "n_notes": 12, "text": "54 59 59 62 60 58 55 56 55 61 61 63", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_20:A2:w0006", "doc_id": "vocadito_20", "annotator": "A2", "n_notes": 12, "text": "55 56 55 61 61 63 61 60 58 54 54 62", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_20:A2:w0012", "doc_id": "vocadito_20", "annotator": "A2", "n_notes": 12, "text": "61 60 58 54 54 62 63 64 63 60 59 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_20:A2:w0018", "doc_id": "vocadito_20", "annotator": "A2", "n_notes": 12, "text": "63 64 63 60 59 55 53 54 56 61 58 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A2:w0000", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "50 50 52 51 51 50 51 44 48 51 49 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A2:w0006", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "51 44 48 51 49 49 50 49 49 48 49 43", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_21:A2:w0012", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "50 49 49 48 49 43 47 49 51 50 51 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A2:w0018", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "47 49 51 50 51 51 51 51 51 53 55 58", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_21:A2:w0024", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "51 51 51 53 55 58 57 52 50 47 46 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_21:A2:w0030", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "57 52 50 47 46 46 51 52 53 44 48 52", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A2:w0036", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "51 52 53 44 48 52 49 49 49 51 43 47", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_21:A2:w0042", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "49 49 49 51 43 47 50 52 52 51 52 55", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_21:A2:w0048", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 12, "text": "50 52 52 51 52 55 55 58 55 54 50 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_21:A2:w0054", "doc_id": "vocadito_21", "annotator": "A2", "n_notes": 8, "text": "55 58 55 54 50 46 45 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_22:A2:w0000", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "60 56 57 56 57 60 60 60 57 56 57 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A2:w0006", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "60 60 57 56 57 60 56 60 60 62 63 63", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A2:w0012", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "56 60 60 62 63 63 61 59 61 63 60 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_22:A2:w0018", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "61 59 61 63 60 56 56 57 60 60 58 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_22:A2:w0024", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "56 57 60 60 58 56 57 61 57 51 53 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_22:A2:w0030", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 12, "text": "57 61 57 51 53 56 56 57 58 61 61 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_22:A2:w0036", "doc_id": "vocadito_22", "annotator": "A2", "n_notes": 11, "text": "56 57 58 61 61 60 58 57 58 60 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_23:A2:w0000", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "47 47 47 49 47 43 47 47 47 49 47 43", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_23:A2:w0006", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "47 47 47 49 47 43 52 51 50 50 52 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A2:w0012", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "52 51 50 50 52 51 49 52 51 49 50 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A2:w0018", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "49 52 51 49 50 52 51 48 44 45 46 48", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A2:w0024", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "51 48 44 45 46 48 45 43 46 45 47 45", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_23:A2:w0030", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "45 43 46 45 47 45 43 44 44 44 44 50", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_23:A2:w0036", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 12, "text": "43 44 44 44 44 50 44 45 48 45 45 45", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_23:A2:w0042", "doc_id": "vocadito_23", "annotator": "A2", "n_notes": 9, "text": "44 45 48 45 45 45 50 57 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_24:A2:w0000", "doc_id": "vocadito_24", "annotator": "A2", "n_notes": 12, "text": "55 59 60 56 56 56 58 61 56 56 57 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_24:A2:w0006", "doc_id": "vocadito_24", "annotator": "A2", "n_notes": 12, "text": "58 61 56 56 57 62 62 60 56 57 58 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_24:A2:w0012", "doc_id": "vocadito_24", "annotator": "A2", "n_notes": 12, "text": "62 60 56 57 58 61 61 56 56 57 58 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_24:A2:w0018", "doc_id": "vocadito_24", "annotator": "A2", "n_notes": 12, "text": "61 56 56 57 58 60 56 56 59 64 64 56", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A2:w0000", "doc_id": "vocadito_25", "annotator": "A2", "n_notes": 12, "text": "58 61 62 59 59 61 62 62 63 65 61 64", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A2:w0006", "doc_id": "vocadito_25", "annotator": "A2", "n_notes": 12, "text": "62 62 63 65 61 64 65 64 66 64 61 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_25:A2:w0012", "doc_id": "vocadito_25", "annotator": "A2", "n_notes": 12, "text": "65 64 66 64 61 61 56 63 64 63 61 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_25:A2:w0018", "doc_id": "vocadito_25", "annotator": "A2", "n_notes": 12, "text": "56 63 64 63 61 60 56 58 54 56 52 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_25:A2:w0024", "doc_id": "vocadito_25", "annotator": "A2", "n_notes": 9, "text": "56 58 54 56 52 58 54 56 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A2:w0000", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "44 45 46 48 50 48 49 47 46 45 44 39", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A2:w0006", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "49 47 46 45 44 39 42 41 40 41 37 39", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_26:A2:w0012", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "42 41 40 41 37 39 44 46 48 50 49 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_26:A2:w0018", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "44 46 48 50 49 49 47 45 44 44 44 44", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_26:A2:w0024", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "47 45 44 44 44 44 47 49 50 53 49 53", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_26:A2:w0030", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "47 49 50 53 49 53 49 54 51 51 51 48", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A2:w0036", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "49 54 51 51 51 48 52 54 49 53 49 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A2:w0042", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 12, "text": "52 54 49 53 49 53 49 54 51 51 52 53", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_26:A2:w0048", "doc_id": "vocadito_26", "annotator": "A2", "n_notes": 8, "text": "49 54 51 51 52 53 51 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_27:A2:w0000", "doc_id": "vocadito_27", "annotator": "A2", "n_notes": 12, "text": "59 59 54 59 61 58 57 59 56 54 53 54", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_27:A2:w0006", "doc_id": "vocadito_27", "annotator": "A2", "n_notes": 12, "text": "57 59 56 54 53 54 48 58 58 54 58 61", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_27:A2:w0012", "doc_id": "vocadito_27", "annotator": "A2", "n_notes": 12, "text": "48 58 58 54 58 61 58 57 58 56 53 53", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_27:A2:w0018", "doc_id": "vocadito_27", "annotator": "A2", "n_notes": 10, "text": "58 57 58 56 53 53 54 51 53 54", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A2:w0000", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "48 48 48 41 48 49 47 48 46 46 46 46", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A2:w0006", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "47 48 46 46 46 46 39 46 48 46 46 44", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A2:w0012", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "39 46 48 46 46 44 44 48 48 48 48 47", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_28:A2:w0018", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "44 48 48 48 48 47 48 51 49 48 46 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_28:A2:w0024", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "48 51 49 48 46 46 46 46 47 46 45 48", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_28:A2:w0030", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 12, "text": "46 46 47 46 45 48 47 45 43 40 45 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_28:A2:w0036", "doc_id": "vocadito_28", "annotator": "A2", "n_notes": 7, "text": "47 45 43 40 45 49 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_29:A2:w0000", "doc_id": "vocadito_29", "annotator": "A2", "n_notes": 12, "text": "55 56 56 58 60 60 60 58 58 56 55 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_29:A2:w0006", "doc_id": "vocadito_29", "annotator": "A2", "n_notes": 12, "text": "60 58 58 56 55 55 56 57 60 57 55 53", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_29:A2:w0012", "doc_id": "vocadito_29", "annotator": "A2", "n_notes": 12, "text": "56 57 60 57 55 53 54 55 56 57 60 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_29:A2:w0018", "doc_id": "vocadito_29", "annotator": "A2", "n_notes": 12, "text": "54 55 56 57 60 60 59 57 58 56 56 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_29:A2:w0024", "doc_id": "vocadito_29", "annotator": "A2", "n_notes": 8, "text": "59 57 58 56 56 55 60 53", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_2:A2:w0000", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "60 62 64 65 65 67 67 67 68 67 68 67", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_2:A2:w0006", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "67 67 68 67 68 67 65 66 64 64 65 67", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0012", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "65 66 64 64 65 67 67 67 66 64 62 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0018", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "67 67 66 64 62 65 65 65 65 65 66 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0024", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "65 65 65 65 66 65 63 60 62 64 65 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0030", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "63 60 62 64 65 65 67 67 67 68 67 68", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0036", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "67 67 67 68 67 68 67 65 60 64 64 67", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0042", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "67 65 60 64 64 67 67 67 66 64 62 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0048", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 12, "text": "67 67 66 64 62 65 65 65 65 65 64 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_2:A2:w0054", "doc_id": "vocadito_2", "annotator": "A2", "n_notes": 9, "text": "65 65 65 65 64 65 65 62 60", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_30:A2:w0000", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 12, "text": "51 54 53 60 57 56 65 61 59 61 60 57", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_30:A2:w0006", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 12, "text": "65 61 59 61 60 57 56 54 55 52 50 51", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_30:A2:w0012", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 12, "text": "56 54 55 52 50 51 63 59 58 59 57 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_30:A2:w0018", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 12, "text": "63 59 58 59 57 55 54 53 60 60 61 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_30:A2:w0024", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 12, "text": "54 53 60 60 61 58 57 56 54 53 50 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_30:A2:w0030", "doc_id": "vocadito_30", "annotator": "A2", "n_notes": 10, "text": "57 56 54 53 50 49 47 48 58 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_31:A2:w0000", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 12, "text": "56 56 59 64 61 60 58 60 61 60 58 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_31:A2:w0006", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 12, "text": "58 60 61 60 58 59 58 59 60 58 58 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A2:w0012", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 12, "text": "58 59 60 58 58 60 58 61 62 64 54 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A2:w0018", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 12, "text": "58 61 62 64 54 58 60 60 54 59 60 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_31:A2:w0024", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 12, "text": "60 60 54 59 60 60 54 60 60 60 60 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_31:A2:w0030", "doc_id": "vocadito_31", "annotator": "A2", "n_notes": 8, "text": "54 60 60 60 60 60 54 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_32:A2:w0000", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "57 55 54 62 62 63 64 64 64 61 59 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_32:A2:w0006", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "64 64 64 61 59 59 58 60 55 56 53 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A2:w0012", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "58 60 55 56 53 60 61 61 59 59 58 58", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A2:w0018", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "61 61 59 59 58 58 58 58 56 57 60 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A2:w0024", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "58 58 56 57 60 60 60 59 59 58 58 58", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_32:A2:w0030", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "60 59 59 58 58 58 58 58 56 54 55 61", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A2:w0036", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "58 58 56 54 55 61 61 62 63 62 62 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_32:A2:w0042", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 12, "text": "61 62 63 62 62 60 58 58 57 57 55 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_32:A2:w0048", "doc_id": "vocadito_32", "annotator": "A2", "n_notes": 7, "text": "58 58 57 57 55 55 53", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A2:w0000", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "54 54 58 58 58 53 53 54 54 52 57 57", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_33:A2:w0006", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "53 54 54 52 57 57 57 58 58 60 54 53", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A2:w0012", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "57 58 58 60 54 53 53 54 58 58 57 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_33:A2:w0018", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "53 54 58 58 57 57 56 57 56 57 56 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A2:w0024", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "56 57 56 57 56 54 53 54 52 51 50 47", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A2:w0030", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "53 54 52 51 50 47 45 46 46 47 45 46", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_33:A2:w0036", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "45 46 46 47 45 46 47 46 46 46 45 45", "trope_ids": ["contour.static"]}
+{"chunk_id": "vocadito_33:A2:w0042", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "47 46 46 46 45 45 47 46 48 46 45 50", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_33:A2:w0048", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "47 46 48 46 45 50 50 50 51 51 51 52", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_33:A2:w0054", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "50 50 51 51 51 52 52 53 54 51 50 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A2:w0060", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "52 53 54 51 50 48 46 53 55 57 57 57", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_33:A2:w0066", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "46 53 55 57 57 57 52 52 54 55 52 50", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_33:A2:w0072", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 12, "text": "52 52 54 55 52 50 57 57 57 58 56 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_33:A2:w0078", "doc_id": "vocadito_33", "annotator": "A2", "n_notes": 9, "text": "57 57 57 58 56 58 59 53 52", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_34:A2:w0000", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "60 60 59 56 55 55 55 53 55 55 57 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A2:w0006", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "55 53 55 55 57 59 57 57 56 59 59 59", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_34:A2:w0012", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "57 57 56 59 59 59 58 57 55 55 56 55", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_34:A2:w0018", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "58 57 55 55 56 55 52 61 63 59 56 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A2:w0024", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "52 61 63 59 56 55 55 57 59 59 57 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A2:w0030", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "55 57 59 59 57 55 58 60 57 54 59 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A2:w0036", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "58 60 57 54 59 62 60 59 57 57 57 57", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A2:w0042", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "60 59 57 57 57 57 59 59 59 57 55 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_34:A2:w0048", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "59 59 59 57 55 55 59 62 62 59 57 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A2:w0054", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "59 62 62 59 57 55 55 58 59 59 59 56", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_34:A2:w0060", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "55 58 59 59 59 56 54 55 56 52 55 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_34:A2:w0066", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "54 55 56 52 55 55 58 58 59 57 57 57", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_34:A2:w0072", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "58 58 59 57 57 57 57 60 59 59 59 57", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_34:A2:w0078", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 12, "text": "57 60 59 59 59 57 56 55 55 55 50 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_34:A2:w0084", "doc_id": "vocadito_34", "annotator": "A2", "n_notes": 11, "text": "56 55 55 55 50 62 62 60 57 55 55", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_35:A2:w0000", "doc_id": "vocadito_35", "annotator": "A2", "n_notes": 12, "text": "50 47 45 48 53 51 48 47 50 45 48 51", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A2:w0006", "doc_id": "vocadito_35", "annotator": "A2", "n_notes": 12, "text": "48 47 50 45 48 51 48 44 41 49 45 44", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A2:w0012", "doc_id": "vocadito_35", "annotator": "A2", "n_notes": 12, "text": "48 44 41 49 45 44 44 47 48 49 51 45", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_35:A2:w0018", "doc_id": "vocadito_35", "annotator": "A2", "n_notes": 8, "text": "44 47 48 49 51 45 43 41", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A2:w0000", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "44 44 44 46 49 48 46 48 50 51 55 56", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_36:A2:w0006", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "46 48 50 51 55 56 56 50 51 51 47 48", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_36:A2:w0012", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "56 50 51 51 47 48 49 43 45 45 51 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_36:A2:w0018", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "49 43 45 45 51 49 47 46 44 45 44 45", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_36:A2:w0024", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "47 46 44 45 44 45 47 49 49 47 49 51", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_36:A2:w0030", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "47 49 49 47 49 51 52 56 56 56 50 52", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_36:A2:w0036", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "52 56 56 56 50 52 51 47 48 49 43 45", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_36:A2:w0042", "doc_id": "vocadito_36", "annotator": "A2", "n_notes": 12, "text": "51 47 48 49 43 45 46 51 50 48 46 44", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_37:A2:w0000", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 12, "text": "56 59 62 65 67 59 57 62 65 66 62 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A2:w0006", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 12, "text": "57 62 65 66 62 62 61 59 61 62 63 64", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_37:A2:w0012", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 12, "text": "61 59 61 62 63 64 66 67 66 61 56 59", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A2:w0018", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 12, "text": "66 67 66 61 56 59 62 65 67 58 58 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_37:A2:w0024", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 12, "text": "62 65 67 58 58 57 57 62 64 66 61 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_37:A2:w0030", "doc_id": "vocadito_37", "annotator": "A2", "n_notes": 11, "text": "57 62 64 66 61 61 62 66 64 61 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A2:w0000", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "61 61 63 62 59 55 59 62 63 64 61 58", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_38:A2:w0006", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "59 62 63 64 61 58 57 62 61 62 62 64", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_38:A2:w0012", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "57 62 61 62 62 64 61 62 58 55 58 62", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_38:A2:w0018", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "61 62 58 55 58 62 63 64 64 62 62 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A2:w0024", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "63 64 64 62 62 59 56 61 54 63 63 67", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A2:w0030", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "56 61 54 63 63 67 62 62 61 59 58 57", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_38:A2:w0036", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "62 62 61 59 58 57 61 59 59 61 54 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_38:A2:w0042", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "61 59 59 61 54 62 61 63 61 58 55 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_38:A2:w0048", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 12, "text": "61 63 61 58 55 59 61 63 64 64 61 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_38:A2:w0054", "doc_id": "vocadito_38", "annotator": "A2", "n_notes": 10, "text": "61 63 64 64 61 62 59 56 62 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_39:A2:w0000", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "64 66 65 66 65 62 62 61 63 62 60 61", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A2:w0006", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "62 61 63 62 60 61 60 62 59 55 60 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A2:w0012", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "60 62 59 55 60 62 60 62 60 52 56 59", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A2:w0018", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "60 62 60 52 56 59 61 68 67 65 65 67", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_39:A2:w0024", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "61 68 67 65 65 67 65 66 65 62 63 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_39:A2:w0030", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "65 66 65 62 63 62 63 61 60 61 60 61", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_39:A2:w0036", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "63 61 60 61 60 61 59 55 55 57 58 59", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A2:w0042", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "59 55 55 57 58 59 62 60 60 61 60 60", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A2:w0048", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "62 60 60 61 60 60 60 58 58 65 66 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_39:A2:w0054", "doc_id": "vocadito_39", "annotator": "A2", "n_notes": 12, "text": "60 58 58 65 66 65 66 65 66 65 67 65", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_3:A2:w0000", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "49 54 56 54 53 49 51 51 53 51 49 46", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A2:w0006", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "51 51 53 51 49 46 46 49 51 49 47 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_3:A2:w0012", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "46 49 51 49 47 55 56 56 58 56 54 49", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A2:w0018", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "56 56 58 56 54 49 49 54 55 54 53 49", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_3:A2:w0024", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "49 54 55 54 53 49 51 53 51 49 46 47", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_3:A2:w0030", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 12, "text": "51 53 51 49 46 47 49 49 49 51 53 54", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_3:A2:w0036", "doc_id": "vocadito_3", "annotator": "A2", "n_notes": 10, "text": "49 49 49 51 53 54 53 51 53 54", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_40:A2:w0000", "doc_id": "vocadito_40", "annotator": "A2", "n_notes": 12, "text": "62 67 63 58 55 64 62 60 62 57 62 66", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A2:w0006", "doc_id": "vocadito_40", "annotator": "A2", "n_notes": 12, "text": "62 60 62 57 62 66 63 61 59 65 64 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A2:w0012", "doc_id": "vocadito_40", "annotator": "A2", "n_notes": 12, "text": "63 61 59 65 64 62 62 67 63 58 55 64", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A2:w0018", "doc_id": "vocadito_40", "annotator": "A2", "n_notes": 12, "text": "62 67 63 58 55 64 61 59 61 57 62 65", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_40:A2:w0024", "doc_id": "vocadito_40", "annotator": "A2", "n_notes": 12, "text": "61 59 61 57 62 65 63 61 59 59 56 55", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A2:w0000", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "50 50 47 46 46 44 42 45 50 50 51 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_4:A2:w0006", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "42 45 50 50 51 50 48 46 45 43 46 50", "trope_ids": ["contour.ascending"]}
+{"chunk_id": "vocadito_4:A2:w0012", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "48 46 45 43 46 50 50 48 46 46 49 50", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_4:A2:w0018", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "50 48 46 46 49 50 51 50 52 51 49 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_4:A2:w0024", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "51 50 52 51 49 49 51 50 48 50 49 47", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A2:w0030", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "51 50 48 50 49 47 46 39 43 45 46 39", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A2:w0036", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 12, "text": "46 39 43 45 46 39 46 48 41 44 45 46", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_4:A2:w0042", "doc_id": "vocadito_4", "annotator": "A2", "n_notes": 9, "text": "46 48 41 44 45 46 39 46 49", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_5:A2:w0000", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "59 59 61 59 57 56 59 60 61 59 57 56", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0006", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "59 60 61 59 57 56 59 59 61 57 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0012", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "59 59 61 57 56 54 57 57 59 59 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0018", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "57 57 59 59 56 54 58 58 59 58 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0024", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "58 58 59 58 56 54 57 58 59 56 54 52", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0030", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "57 58 59 56 54 52 60 59 61 59 57 56", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_5:A2:w0036", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "60 59 61 59 57 56 59 59 61 59 58 57", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0042", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "59 59 61 59 58 57 59 59 60 57 56 54", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0048", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "59 59 60 57 56 54 57 58 60 58 57 55", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_5:A2:w0054", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "57 58 60 58 57 55 57 58 59 58 56 54", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_5:A2:w0060", "doc_id": "vocadito_5", "annotator": "A2", "n_notes": 12, "text": "57 58 59 58 56 54 57 58 59 56 54 52", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_6:A2:w0000", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "60 60 57 61 64 65 66 65 61 60 60 60", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A2:w0006", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "66 65 61 60 60 60 59 59 57 61 63 64", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_6:A2:w0012", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "59 59 57 61 63 64 66 64 61 61 60 58", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A2:w0018", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "66 64 61 61 60 58 61 61 58 61 64 65", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_6:A2:w0024", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "61 61 58 61 64 65 66 65 61 62 61 62", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A2:w0030", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "66 65 61 62 61 62 61 60 60 60 58 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_6:A2:w0036", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 12, "text": "61 60 60 60 58 62 64 64 66 65 61 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_6:A2:w0042", "doc_id": "vocadito_6", "annotator": "A2", "n_notes": 8, "text": "64 64 66 65 61 61 61 58", "trope_ids": ["contour.descending"]}
+{"chunk_id": "vocadito_7:A2:w0000", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "57 59 62 62 62 62 65 69 70 66 62 65", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A2:w0006", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "65 69 70 66 62 65 64 64 64 62 61 61", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A2:w0012", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "64 64 64 62 61 61 57 57 57 60 62 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_7:A2:w0018", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "57 57 57 60 62 62 62 66 69 69 66 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A2:w0024", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "62 66 69 69 66 63 62 62 66 64 64 64", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_7:A2:w0030", "doc_id": "vocadito_7", "annotator": "A2", "n_notes": 12, "text": "62 62 66 64 64 64 64 64 57 60 61 62", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_8:A2:w0000", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 12, "text": "49 46 47 49 49 51 48 47 46 44 45 47", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_8:A2:w0006", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 12, "text": "48 47 46 44 45 47 49 49 50 47 46 49", "trope_ids": ["contour.valley"]}
+{"chunk_id": "vocadito_8:A2:w0012", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 12, "text": "49 49 50 47 46 49 49 48 49 49 49 48", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_8:A2:w0018", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 12, "text": "49 48 49 49 49 48 49 48 49 50 50 48", "trope_ids": ["contour.static"]}
+{"chunk_id": "vocadito_8:A2:w0024", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 12, "text": "49 48 49 50 50 48 50 51 50 48 51 48", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_8:A2:w0030", "doc_id": "vocadito_8", "annotator": "A2", "n_notes": 7, "text": "50 51 50 48 51 48 50", "trope_ids": ["contour.mixed"]}
+{"chunk_id": "vocadito_9:A2:w0000", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "51 58 59 61 62 58 58 62 65 67 63 65", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A2:w0006", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "58 62 65 67 63 65 60 63 67 67 64 62", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A2:w0012", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "60 63 67 67 64 62 63 65 65 62 62 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A2:w0018", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "63 65 65 62 62 63 63 61 57 59 51 58", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A2:w0024", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "63 61 57 59 51 58 59 61 62 59 58 60", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A2:w0030", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "59 61 62 59 58 60 63 65 67 64 65 64", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A2:w0036", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "63 65 67 64 65 64 64 68 68 66 62 63", "trope_ids": ["contour.arch"]}
+{"chunk_id": "vocadito_9:A2:w0042", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 12, "text": "64 68 68 66 62 63 65 65 63 62 63 64", "trope_ids": ["contour.undulating"]}
+{"chunk_id": "vocadito_9:A2:w0048", "doc_id": "vocadito_9", "annotator": "A2", "n_notes": 11, "text": "65 65 63 62 63 64 61 60 60 57 59", "trope_ids": ["contour.descending"]}

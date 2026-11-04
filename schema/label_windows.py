@@ -1,16 +1,14 @@
-"""Label note windows from vocadito note CSVs and print the label distribution.
+"""Label note windows from vocadito note CSVs and export to JSONL.
 
 Usage (from the schema/ directory):
     python label_windows.py vocadito_1_notesA1.csv --max-onset 30
-    python label_windows.py path/to/*_notesA1.csv path/to/*_notesA2.csv --verbose
-
-CSV format: no header; columns are onset_s, frequency_hz, duration_s.
-Windows: n notes, stride s (defaults 12 and 6). The last window may be partial.
+    python label_windows.py path/to/*_notesA1.csv path/to/*_notesA2.csv --verbose --out silver_vocadito_chunks.jsonl
 """
 import argparse
 import csv
 import math
 import os
+import json
 from collections import Counter, defaultdict
 
 import contour_labeler
@@ -60,7 +58,10 @@ def main():
                     help="a label needs at least this many windows to be eligible for retrieval queries")
     ap.add_argument("--min-clips", type=int, default=3,
                     help="a label needs windows from at least this many distinct clips to be eligible")
+    ap.add_argument("--out", type=str, default="silver_vocadito_chunks.jsonl",
+                    help="output JSONL file path for the chunk records")
     a = ap.parse_args()
+
     if a.min_swing is not None:
         contour_labeler.REVERSAL_MIN_SWING = a.min_swing
     if a.min_reversals is not None:
@@ -69,22 +70,46 @@ def main():
           f"reversals>={contour_labeler.UNDULATING_MIN_REVERSALS}")
 
     total = Counter()
-    clips = defaultdict(set)   # label -> distinct clip ids that contain it
+    clips = defaultdict(set)
+    all_chunks = []  # Accumulator for JSONL export
+
     for path in a.csvs:
         midi = load_midi(path, a.max_onset)
         wins = windows(midi, a.n, a.s)
         labels = [contour_label(w) for w in wins]
         counts = Counter(labels)
         total.update(counts)
-        clip_id = os.path.basename(path).split("_notes")[0]
+        
+        # Parse metadata for the schema
+        filename = os.path.basename(path)
+        clip_id = filename.split("_notes")[0]
+        annotator = "A1" if "A1" in filename else "A2"
+        
         for lab in counts:
             clips[lab].add(clip_id)
+            
         print(f"{path}: {len(midi)} notes, {len(wins)} windows")
         for lab, c in sorted(counts.items()):
             print(f"    {lab}: {c}")
-        if a.verbose:
-            for i, (w, lab) in enumerate(zip(wins, labels)):
+            
+        for i, (w, lab) in enumerate(zip(wins, labels)):
+            chunk_id = f"{clip_id}:{annotator}:w{i * a.s:04d}"
+            
+            # Construct the schema-compliant record
+            record = {
+                "chunk_id": chunk_id,
+                "doc_id": clip_id,
+                "annotator": annotator,
+                "n_notes": len(w),
+                "text": " ".join(map(str, w)),
+                "trope_ids": [lab]
+                # Downstream: Add the 37-d "vector" array before FAISS ingestion
+            }
+            all_chunks.append(record)
+            
+            if a.verbose:
                 print(f"    w{i * a.s:04d} n={len(w):2d} {lab}  {w}")
+
     if len(a.csvs) > 1:
         print("TOTAL")
         for lab, c in sorted(total.items()):
@@ -97,6 +122,12 @@ def main():
                   and lab not in ("contour.mixed", "contour.undetermined"))
             print(f"    {lab}: {c} windows, {k} clips -> {'eligible' if ok else 'EXCLUDED'}")
 
+    # Export to JSONL
+    if a.out:
+        with open(a.out, "w") as f:
+            for chunk in all_chunks:
+                f.write(json.dumps(chunk) + "\n")
+        print(f"\nSaved {len(all_chunks)} chunks to {a.out}")
 
 if __name__ == "__main__":
     main()

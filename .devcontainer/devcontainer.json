@@ -4,13 +4,13 @@
     "dockerfile": "Dockerfile",
     "context": "..",
     "args": {
-      "BASE_IMAGE": "${localEnv:DEVCONTAINER_BASE_IMAGE:-pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime}"
+      "BASE_IMAGE": "${localEnv:DEVCONTAINER_BASE_IMAGE:pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime}"
     }
   },
   "remoteUser": "vscode",
-  "hostRequirements": {
+  /*"hostRequirements": {
     "gpu": "optional"
-  },
+  },*/
   "customizations": {
     "vscode": {
       "extensions": [
